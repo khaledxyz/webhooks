@@ -1,0 +1,16 @@
+.git
+.next
+.vscode
+.certificates
+node_modules
+.dockerignore
+.env
+.editorconfig
+.eslintrc.js
+.gitignore
+.npmrc
+.prettierrc.json
+.stylelintrc.json
+Dockerfile
+npm-debug.log
+README.md
